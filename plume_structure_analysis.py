@@ -118,7 +118,6 @@ for i in range(3):
     ax2.plot(x, y, label=f"Image {i+1}")
 
 
-
 plt.show()
 print(np.array(m_values)*(5/6))
 print(c_values)
